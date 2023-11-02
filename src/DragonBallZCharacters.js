@@ -5,8 +5,8 @@ import PiccoloImage from "./image/piccolo.jpg";
 
 const DragonBallZCharacters = () => {
   const imageSize = {
-    width: "140px", // Set your desired width
-    height: "140px", // Set your desired height
+    width: "160px", // Set your desired width
+    height: "160px", // Set your desired height
   };
 
   return (
